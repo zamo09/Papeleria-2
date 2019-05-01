@@ -4,17 +4,23 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+App web dedicada a los pedidos de papeleria de Casa Baltazar con los usos:
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+  - Solicitud de padidos de articulos de oficina
+  - Creacion de nuevos articulos
+  - Control de usuarios 
+  - Control por departamentos
 
-# New Features!
+# Funcion principal
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Poder realizar pedidos de los diferentes departamentos al encargado de compra de articulos de oficina
+  - Creacion de reportes con costos y cantidad de materiales para realizar pedidos con el proveedor
 
+# Caracteristicas del codigo
+
+![](https://i.imgur.com/sTxKLqC.png)
+
+  ![](https://img.shields.io/badge/Version-V1.0-Red.svg) ![](https://img.shields.io/badge/Porcentaje-0%25-Red.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
