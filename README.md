@@ -24,3 +24,5 @@ El proyecto nace de la necesidad de solicitar mes con mes articulos de papeleria
 > de aplicaciones para las necesidades de la empresa
 > y centralizar todo el contenido del mismo en una app
 > destinada al trabajo de todos en la empresa
+
+![](https://i.imgur.com/CU6JUXI.png)
