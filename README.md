@@ -18,7 +18,7 @@ App web dedicada a los pedidos de papeleria de Casa Baltazar con los usos:
 
 # Caracteristicas del codigo
 
-![](https://i.imgur.com/sTxKLqC.png)
+![](https://i.imgur.com/Jd4ZRWO.png)
 
   ![](https://img.shields.io/badge/Version-V1.0-Red.svg) ![](https://img.shields.io/badge/Porcentaje-0%25-Red.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
