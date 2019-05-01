@@ -1,8 +1,8 @@
 # Papeleria CBA
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![](https://i.imgur.com/NVM7li8.png)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+  ![](https://img.shields.io/badge/Version-V1.0-Red.svg) ![](https://img.shields.io/badge/Porcentaje-0%25-Red.svg) ![](https://img.shields.io/badge/Dep-1-Blue.svg) ![](https://img.shields.io/badge/Fehca%20I%20-01%2F05%2F19-yellow.svg) 
 
 App web dedicada a los pedidos de papeleria de Casa Baltazar con los usos:
 
@@ -16,23 +16,11 @@ App web dedicada a los pedidos de papeleria de Casa Baltazar con los usos:
   - Poder realizar pedidos de los diferentes departamentos al encargado de compra de articulos de oficina
   - Creacion de reportes con costos y cantidad de materiales para realizar pedidos con el proveedor
 
-# Caracteristicas del codigo
+Proyecto pensado
 
-![](https://i.imgur.com/Jd4ZRWO.png)
+El proyecto nace de la necesidad de solicitar mes con mes articulos de papeleria y oficina al departamento encargado, y siendo muy molesto la recoleccion de papel por parte de los departamentos para realizar estos pedidos, el fin principal es agilizar el proceso de solicitud y al mismo tiempo reducir el numero de papel y correos por parte de los departamentos.
 
-  ![](https://img.shields.io/badge/Version-V1.0-Red.svg) ![](https://img.shields.io/badge/Porcentaje-0%25-Red.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Se tiene la idea que este proyecto sera agregado a una gama mas grande
+> de aplicaciones para las necesidades de la empresa
+> y centralizar todo el contenido del mismo en una app
+> destinada al trabajo de todos en la empresa
